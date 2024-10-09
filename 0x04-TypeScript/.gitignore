@@ -1,0 +1,7 @@
+#skipping node module
+/task_0/node_module
+/task_1/node_module
+/task_2/node_module
+/task_3/node_module
+/task_4/node_module
+/task_5/node_module
